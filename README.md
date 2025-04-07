@@ -1,4 +1,4 @@
-Contact List Manager 📇
+Contact List Manager 
 Student: Ronaldo Coc  
 Assignment #2 — Due: April 7, 2025
 
