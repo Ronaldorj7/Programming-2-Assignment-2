@@ -9,7 +9,7 @@ This is a simple Contact List Manager built using a singly linked list in C++. I
 3. Search for a contact by name  
 4. Delete a contact by name  
 
-## How to Compile and Run
+How to Compile and Run
 
 Make sure you have a C++ compiler installed.
 
